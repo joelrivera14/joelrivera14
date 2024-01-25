@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Joel😁
+
+I'm a full stack graduate from TripleTens coding bootcamp where I coded projects in JavaScript, React, Node, Express and MongoDB.
+
+While being part of TripleTens bootcamp, I regularly met with tutors and peers to discuss project deadlines, bugs and how to go about debugging, problem solving and overall how to improve as a developer. I went from creating parts as a machinist to creating projects with code and thats really what fuels my desire to keep coding. I love to create and besides the projects that I've completed as a student of TripleTen, I've also done some of my own personal projects as im ever chasing a greater understanding of todays technologies.
+
 
 <!--
 **joelrivera14/joelrivera14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
