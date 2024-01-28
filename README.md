@@ -1,8 +1,10 @@
 ### Hi, I'm Joel😁
 
-I'm a full stack graduate from TripleTens coding bootcamp where I coded projects in JavaScript, React, Node, Express and MongoDB.
+Having transitioned from the world of machining metal parts to creating components with code, my journey as a Frontend developer is characterized by a constant drive to explore the depths of digital creativity. With nine months of experience in precision machining, I bring a unique perspective to my role, blending the meticulous attention to detail acquired in machining with the boundless possibilities of web development.
 
-While being part of TripleTens bootcamp, I regularly met with tutors and peers to discuss project deadlines, bugs and how to go about debugging, problem solving and overall how to improve as a developer. I went from creating parts as a machinist to creating projects with code and thats really what fuels my desire to keep coding. I love to create and besides the projects that I've completed as a student of TripleTen, I've also done some of my own personal projects as im ever chasing a greater understanding of todays technologies.
+In crafting web development projects with JavaScript and the MERN stack, I prioritize efficiency and user experience. With JavaScript, I create dynamic frontend interfaces; while utilizing React, Express, Node and MongoDB for full-stack development.
+
+Looking ahead, my aspiration is to continue evolving as a front-end developer by tackling more complex problems and pushing the limits of my abilities. My journey from machining metal parts to crafting digital components mirrors my adaptability and eagerness to embrace new technologies. With a firm foundation in both the physical and digital realms, I am poised to tackle any challenge and contribute meaningfully to projects that push the boundaries of what's possible in front-end development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelrivera14&label=Profile%20views&color=0e75b6&style=flat" alt="joelrivera14" /> </p>
 
