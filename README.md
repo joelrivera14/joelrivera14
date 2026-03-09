@@ -17,7 +17,7 @@
 ## about me
 
 ```js
-const joel = {
+const Joel = {
   location:   "Queens, New York 🗽",
   education:  "CS & Information Security @ Queensborough CC → John Jay College",
   currently:  "ET Tutor | Building projects | Studying for certs",
