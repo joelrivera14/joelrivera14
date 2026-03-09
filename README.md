@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Joel 👋
+# Hey, I'm Joel 👋
 
 **Software Developer · Security Enthusiast · CS Student · Queens, NY**
 
