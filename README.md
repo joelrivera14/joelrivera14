@@ -21,8 +21,8 @@ const joel = {
   location:   "Queens, New York 🗽",
   education:  "CS & Information Security @ Queensborough CC → John Jay College",
   currently:  "ET Tutor | Building projects | Studying for certs",
-  background: "9 months precision machining → dev bootcamp → never looked back",
-  interests:  ["software development", "cybersecurity", "C++", "Python", "systems thinking"],
+  background: "Precision machining → Dev bootcamp → Never looked back",
+  interests:  ["software development", "cybersecurity", "C++", "Python"],
   aspiration: "Build robust software, secure systems, and keep pushing deeper into the stack"
 };
 ```
@@ -46,7 +46,6 @@ const joel = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -60,7 +59,6 @@ const joel = {
 | **Google Cybersecurity Professional** | Google / Coursera | 2025 |
 | **CompTIA A+** | CompTIA | 2024 |
 | **Google IT Support Professional** | Google / Coursera | 2024 |
-| **Complete React Developer** | Udemy | 2023 |
 
 ---
 
@@ -85,22 +83,5 @@ const joel = {
 - Custom local backend handling all API requests
 
 ---
-
-## 📊 github stats
-
-<div align="center">
-
-![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelrivera14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelrivera14&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"The same discipline that kept tolerances tight on a lathe keeps my code clean."*
-
-**Let's build something** → [jorivera114@gmail.com](mailto:jorivera114@gmail.com)
 
 </div>
