@@ -7,7 +7,7 @@
 *Machinist-turned-developer. I bring the same precision I used on CNC machines to writing clean, efficient code.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-rivera-b85975258)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joelrivera14.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joelrivera14.github.io/portfolio-2026/)
 [![Profile Views](https://komarev.com/ghpvc/?username=joelrivera14&style=flat-square&color=6366f1)](https://github.com/joelrivera14)
 
 </div>
