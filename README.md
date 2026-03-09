@@ -1,14 +1,8 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║   from metal shavings → to clean commits              ║
-╚═══════════════════════════════════════════════════════╝
-```
-
 # hey, I'm Joel 👋
 
-**Frontend Developer · CS Student · Queens, NY**
+**Software Developer · Security Enthusiast · CS Student · Queens, NY**
 
 *Machinist-turned-developer. I bring the same precision I used on CNC machines to writing clean, efficient code.*
 
@@ -26,9 +20,10 @@
 const joel = {
   location:   "Queens, New York 🗽",
   education:  "CS & Information Security @ Queensborough CC → John Jay College",
-  currently:  "ET Tutor | Building full-stack projects | Studying for certs",
-  background: "9 months precision machining → full-stack dev bootcamp → never looked back",
-  aspiration: "Tackle complex frontend challenges & push the limits of web UX"
+  currently:  "ET Tutor | Building projects | Studying for certs",
+  background: "9 months precision machining → dev bootcamp → never looked back",
+  interests:  ["software development", "cybersecurity", "C++", "Python", "systems thinking"],
+  aspiration: "Build robust software, secure systems, and keep pushing deeper into the stack"
 };
 ```
 
@@ -38,6 +33,8 @@ const joel = {
 
 <div align="center">
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -46,9 +43,8 @@ const joel = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
