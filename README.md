@@ -64,17 +64,17 @@ const Joel = {
 
 ## 🚀 featured projects
 
+### ☁️ Personal Cloud Infrastructure
+> Self-hosted cloud platform running 24/7 on Oracle Cloud — full data ownership, no iCloud/Dropbox
+- Provisioned and configured an Ubuntu 22.04 ARM64 Linux server on Oracle Cloud
+- Deployed a containerized stack with Docker Compose: Nextcloud, PostgreSQL, Redis, and Nginx as a reverse proxy
+- Debugged and resolved OAuth auth failures from reverse proxy misconfiguration using Nextcloud's `occ` CLI
+
 ### 👑 Crown Clothing
 > Full e-commerce experience built with React + Firebase + Stripe API
 - Dynamic routing across product categories
 - Stripe Checkout integration for real payment flow
 - Styled with SCSS for a polished storefront feel
-
-### 🌦 What to Wear
-> Weather-based clothing recommender — MERN stack
-- Live weather API integration to suggest outfits by temperature
-- Full user auth (sign up / log in) via Node.js
-- Clothing items stored per user in MongoDB
 
 ### 📸 Around the U.S.
 > Instagram-inspired image sharing app — vanilla JS
