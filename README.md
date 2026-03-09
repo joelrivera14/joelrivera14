@@ -1,41 +1,110 @@
-### Hi, I'm Joel😁
+<div align="center">
 
-Having transitioned from the world of machining metal parts to creating components with code, my journey as a Frontend developer is characterized by a constant drive to explore the depths of digital creativity. With nine months of experience in precision machining, I bring a unique perspective to my role, blending the meticulous attention to detail acquired in machining with the boundless possibilities of web development.
+```
+╔═══════════════════════════════════════════════════════╗
+║   from metal shavings → to clean commits              ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-In crafting web development projects with JavaScript and the MERN stack, I prioritize efficiency and user experience. With JavaScript, I create dynamic frontend interfaces; while utilizing React, Express, Node and MongoDB for full-stack development.
+# hey, I'm Joel 👋
 
-Looking ahead, my aspiration is to continue evolving as a front-end developer by tackling more complex problems and pushing the limits of my abilities. My journey from machining metal parts to crafting digital components mirrors my adaptability and eagerness to embrace new technologies. With a firm foundation in both the physical and digital realms, I am poised to tackle any challenge and contribute meaningfully to projects that push the boundaries of what's possible in front-end development.
+**Frontend Developer · CS Student · Queens, NY**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelrivera14&label=Profile%20views&color=0e75b6&style=flat" alt="joelrivera14" /> </p>
+*Machinist-turned-developer. I bring the same precision I used on CNC machines to writing clean, efficient code.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joel-rivera-b85975258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-rivera-b85975258/" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-rivera-b85975258)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joelrivera14.github.io/portfolio)
+[![Profile Views](https://komarev.com/ghpvc/?username=joelrivera14&style=flat-square&color=6366f1)](https://github.com/joelrivera14)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+</div>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## about me
 
+```js
+const joel = {
+  location:   "Queens, New York 🗽",
+  education:  "CS & Information Security @ Queensborough CC → John Jay College",
+  currently:  "ET Tutor | Building full-stack projects | Studying for certs",
+  background: "9 months precision machining → full-stack dev bootcamp → never looked back",
+  aspiration: "Tackle complex frontend challenges & push the limits of web UX"
+};
+```
 
+---
 
-<!--
-**joelrivera14/joelrivera14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 languages & tools
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 🔐 certifications
+
+| Cert | Issuer | Year |
+|------|--------|------|
+| **CompTIA Security+** | CompTIA | 2025 |
+| **Google Cybersecurity Professional** | Google / Coursera | 2025 |
+| **CompTIA A+** | CompTIA | 2024 |
+| **Google IT Support Professional** | Google / Coursera | 2024 |
+| **Complete React Developer** | Udemy | 2023 |
+
+---
+
+## 🚀 featured projects
+
+### 👑 Crown Clothing
+> Full e-commerce experience built with React + Firebase + Stripe API
+- Dynamic routing across product categories
+- Stripe Checkout integration for real payment flow
+- Styled with SCSS for a polished storefront feel
+
+### 🌦 What to Wear
+> Weather-based clothing recommender — MERN stack
+- Live weather API integration to suggest outfits by temperature
+- Full user auth (sign up / log in) via Node.js
+- Clothing items stored per user in MongoDB
+
+### 📸 Around the U.S.
+> Instagram-inspired image sharing app — vanilla JS
+- Upload, delete, and like photos
+- DOM manipulation with pure JavaScript
+- Custom local backend handling all API requests
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelrivera14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelrivera14&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The same discipline that kept tolerances tight on a lathe keeps my code clean."*
+
+**Let's build something** → [jorivera114@gmail.com](mailto:jorivera114@gmail.com)
+
+</div>
