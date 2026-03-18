@@ -70,17 +70,17 @@ const Joel = {
 - Deployed a containerized stack with Docker Compose: Nextcloud, PostgreSQL, Redis, and Nginx as a reverse proxy
 - Debugged and resolved OAuth auth failures from reverse proxy misconfiguration using Nextcloud's `occ` CLI
 
+### 📬 Email Scraping Agent
+> Built and deployed an AI-powered email scraping agent on Oracle Cloud that automates job discovery
+- Integrated Gmail API with OAuth2 authentication to scrape LinkedIn and Indeed job alert emails
+- Used Google Gemini AI to filter and categorize job postings against a custom candidate profile
+- Automated Excel output synced to Google Drive via rclone scheduled to run every 12 hours with cron
+
 ### 👑 Crown Clothing
 > Full e-commerce experience built with React + Firebase + Stripe API
 - Dynamic routing across product categories
 - Stripe Checkout integration for real payment flow
 - Styled with SCSS for a polished storefront feel
-
-### 📸 Around the U.S.
-> Instagram-inspired image sharing app — vanilla JS
-- Upload, delete, and like photos
-- DOM manipulation with pure JavaScript
-- Custom local backend handling all API requests
 
 ---
 
