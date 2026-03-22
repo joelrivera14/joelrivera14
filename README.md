@@ -1,14 +1,13 @@
 <div align="center">
 
 # Hey, I'm Joel 👋
-
 **Software Developer · Security Enthusiast · CS Student · Queens, NY**
 
 *Machinist-turned-developer. I bring the same precision I used on CNC machines to writing clean, efficient code.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-rivera-b85975258)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joelrivera14.github.io/portfolio-2026/)
-[![Profile Views](https://komarev.com/ghpvc/?username=joelrivera14&style=flat-square&color=6366f1)](https://github.com/joelrivera14)
+[![Profile Views](https://komarev.com/ghpvc/?username=joelrivera14&style=flat-square&color=6366f1&reset=true)](https://github.com/joelrivera14)
 
 </div>
 
@@ -42,8 +41,9 @@ const Joel = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -66,21 +66,24 @@ const Joel = {
 
 ### ☁️ Personal Cloud Infrastructure
 > Self-hosted cloud platform running 24/7 on Oracle Cloud — full data ownership, no iCloud/Dropbox
+
 - Provisioned and configured an Ubuntu 22.04 ARM64 Linux server on Oracle Cloud
 - Deployed a containerized stack with Docker Compose: Nextcloud, PostgreSQL, Redis, and Nginx as a reverse proxy
 - Debugged and resolved OAuth auth failures from reverse proxy misconfiguration using Nextcloud's `occ` CLI
 
+### 🛡️ AI-Enriched SOC Lab
+> Full SIEM on Oracle Cloud — attack simulation, Kibana detection rules, and AI-powered alert triage
+
+- Built an Elastic Stack 8.x SIEM on Oracle Cloud ARM64 ingesting real system logs via Filebeat
+- Wrote attack simulation scripts (SSH brute force, privilege escalation, port scanning) and built 4 Kibana SIEM rules firing Critical, High, and Medium alerts
+- Built a Python pipeline sending each alert to Google Gemini for automated triage — MITRE ATT&CK stage, assessment, and recommended action written back into Elasticsearch
+
 ### 📬 Email Scraping Agent
 > Built and deployed an AI-powered email scraping agent on Oracle Cloud that automates job discovery
+
 - Integrated Gmail API with OAuth2 authentication to scrape LinkedIn and Indeed job alert emails
 - Used Google Gemini AI to filter and categorize job postings against a custom candidate profile
 - Automated Excel output synced to Google Drive via rclone scheduled to run every 12 hours with cron
-
-### 👑 Crown Clothing
-> Full e-commerce experience built with React + Firebase + Stripe API
-- Dynamic routing across product categories
-- Stripe Checkout integration for real payment flow
-- Styled with SCSS for a polished storefront feel
 
 ---
 
