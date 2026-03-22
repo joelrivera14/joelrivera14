@@ -74,7 +74,7 @@ const Joel = {
 ### 🛡️ AI-Enriched SOC Lab
 > Full SIEM on Oracle Cloud — attack simulation, Kibana detection rules, and AI-powered alert triage
 
-- Built an Elastic Stack 8.x SIEM on Oracle Cloud ARM64 ingesting real system logs via Filebeat
+- Built an Elastic Stack SIEM on Oracle Cloud ARM64 ingesting real system logs via Filebeat
 - Wrote attack simulation scripts (SSH brute force, privilege escalation, port scanning) and built 4 Kibana SIEM rules firing Critical, High, and Medium alerts
 - Built a Python pipeline sending each alert to Google Gemini for automated triage — MITRE ATT&CK stage, assessment, and recommended action written back into Elasticsearch
 
