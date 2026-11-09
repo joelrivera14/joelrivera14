@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hey, I'm Joel 👋
-**Software Developer · Security Enthusiast · CS Student · Queens, NY**
-
-*Machinist-turned-developer. I bring the same precision I used on CNC machines to writing clean, efficient code.*
+**Software & Security Enthusiast · CS Student · Queens, NY**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-rivera-b85975258)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joelrivera14.github.io/portfolio-2026/)
@@ -16,11 +14,10 @@
 ## about me
 
 ```js
-const Joel = {
+const joel = {
   location:   "Queens, New York 🗽",
-  education:  "CS & Information Security @ Queensborough CC → John Jay College",
-  currently:  "ET Tutor | Building projects | Studying for certs",
-  background: "Precision machining → Dev bootcamp → Never looked back",
+  education:  "CS & Information Security @ Queensborough CC → CS & Information Security Minor: Mathematics @ John Jay College",
+  currently:  "QA Intern | Building projects | Studying for certs",
   interests:  ["software development", "cybersecurity", "C++", "Python"],
   aspiration: "Build robust software, secure systems, and keep pushing deeper into the stack"
 };
